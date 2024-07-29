@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+<meta Charset="UTF-8">
+<TITLE>PRÁCTICA 1 INICIANDO PROGRAMACIÓN WEB</title> 
+</HEAD>
+
+<BODY bgcolor="white">
+<CENTER><h1>Hoja de vida Diego Fernando Reyes Mosquera</h1></CENTER>
+<p ALIGN="CENTER">Bienvenidos a mi sitio web, visualizaras mi perfil laboral y personal</p>
+<p>Mi nombre es Diego Fernando Reyes Mosquera, tengo 25 años, de la ciudad de villavicencio-meta, mis gustos personales es hacer deporte, leer y bailar, si quieres conocer mi red social de contacto, ingresa a este <a href= "https://www.linkedin.com/in/diego-fernando-reyes-mosquera-802a431aa/">enlace</a>
+
+<table border="4">
+<thead>
+<tr>
+<th>Nombre</th>
+<th>Cursos</th>
+<th>Materias</th>
+</tr>
+</thead>
+</table>
+</BODY>
+
+</HTML>
